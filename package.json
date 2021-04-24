@@ -1,0 +1,17 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1"
+  }
+}
