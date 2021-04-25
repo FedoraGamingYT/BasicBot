@@ -24,6 +24,5 @@ client.commands.forEach(cmd => {
 })
 
 message.channel.send(embed)
-// I dont wanna list category wise bad bad
     }
 }
