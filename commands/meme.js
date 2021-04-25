@@ -11,7 +11,7 @@ module.exports = {
         // using fetch here
         got(`https://www.reddit.com/r/dankmemes/random/.json`).then(response => {
             let content = JSON.parse(response.body);
-            let permalink = contentc[0].data.children[0].data.permalink;
+            let permalink = content[0].data.children[0].data.permalink;
             let memeUrl = `https://reddit.com${permalink}`;
             let memeImage = content[0].data.children[0].data.url;
             let memeTitle = content[0].data.children[0].data.title;
