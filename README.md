@@ -20,7 +20,7 @@ module.exports = { //Exports to index.js if ran.
 
 Configurating the bot:
 
-```json
+```js
 {
     "token": "", // Token of bot.
     "prefix": "!", // Prefix of bot.
