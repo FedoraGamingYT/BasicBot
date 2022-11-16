@@ -1,6 +1,5 @@
 ### Fed & Zero's Starter bot!
 # Made with ❤ by Zero and Fedora.
-# https://www.discord.gg/devs
 How to use
 Command example:
 ```js
