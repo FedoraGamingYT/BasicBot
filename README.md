@@ -28,5 +28,3 @@ Configurating the bot:
 ```
 
 Thanks for using our starter bot! 
-
-Copyright, Zero & Fed. 2021
